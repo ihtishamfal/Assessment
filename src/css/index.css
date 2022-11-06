@@ -1,0 +1,29 @@
+/* Importing all CSS files */
+@import url('./global/Global.css');
+@import url('./containers/dashboard/dashboard.css');
+@import url('./containers/categories/categories.css');
+@import url('./containers/registeredcars/registeredcars.css');
+
+/* Defaults */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 1em;
+}
+
+/* Primary Variables */
+:root {
+  --primary: 'green';
+  --error: #ff3e3e;
+  --white: #fff;
+  --black: #000000;
+  --red: #ff022c;
+  --blue-shade-one: #7df9ff;
+  --blue-shade-two: #40e0d0;
+  --blue-shade-three: #add8e6;
+  --blue-shade-four: #89cff0;
+  --reg-cars-bg: #e6e6e6;
+  --sidebar-bg: #8ac5ff;
+  --btn-color: #1976d2;
+}

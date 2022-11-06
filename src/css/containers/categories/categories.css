@@ -1,0 +1,23 @@
+.categories_section {
+  height: 100vh;
+  overflow: auto;
+}
+.cs_form_container {
+  padding: 5%;
+  width: 100%;
+}
+.cs_form_field {
+  margin: 10px 0;
+  outline: none;
+  border: none;
+  border: 2px solid #1976d2;
+  border-radius: 5px;
+  padding: 10px;
+}
+.btn-container {
+  margin-top: 5%;
+}
+.header-tag {
+  font-size: 2em;
+  color: var(--btn-color);
+}

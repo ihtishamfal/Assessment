@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "email": "ihtishamshami72@gmail.com",
+      "password": "$2a$10$4OJ1dazPuExGqd/9P1KXSerewFiSlNDq7swdTrmtrBVh0ebqDNxbK",
+      "id": 1
+    },
+    {
+      "email": "ihtishamakashami@gmail.com",
+      "password": "$2a$10$fRXZuNhW7dPD8aoezjutguvMp.KJAtGvOGbwlBKlJFpEt/krpGO.G",
+      "id": 2
+    },
+    {
+      "email": "zainali@gmail.com",
+      "password": "$2a$10$7FAx6CBvuxQxcH7zDEZzqOE1tVPCHZQkeDudzJzw.gQhU3STdcg6y",
+      "id": 3
+    },
+    {
+      "email": "hassan@yahoo.com",
+      "password": "$2a$10$LkPA5FDJXJvC.B7oRGNEZeO8YV1azICEpbjl7uiym5HeChg0yU6.G",
+      "id": 4
+    },
+    {
+      "email": "hassan@gmail.com",
+      "password": "$2a$10$H0R3TE6RGdXmkjKwI7aIp.P.gx2Vdw9OuWKKfZFTUqTa9F0UEYr6m",
+      "id": 5
+    },
+    {
+      "email": "hassan@hotmail.com",
+      "password": "$2a$10$F.8as2wnzxdV/BJHFVkWROfLmsOZfxBEFIL1iVkyE4.AczkjlpVNy",
+      "id": 6
+    },
+    {
+      "email": "dummy@gmail.com",
+      "password": "$2a$10$X84J2wKaXwgymtaw.vXuBeL9ABXtx0daZQMgrrg6FhA8P05oxrEUS",
+      "id": 7
+    },
+    {
+      "email": "soojaaa@hotmail.com",
+      "password": "$2a$10$C8F0kEd4khOf/5mELVK63OcOJCfnAMtGJvK4hyPqjGov1N.DT4dYS",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": "b782d09d-e3df-a2b9-1671-a90e173ed519",
+      "categoryname": "blerro",
+      "description": "jeep"
+    },
+    {
+      "id": "5efa2ba2-487e-5228-4841-f36707702fd9",
+      "categoryname": "car",
+      "description": "yaris"
+    },
+    {
+      "id": "eae2dbcb-8ec9-23e2-543c-dd48999d40da",
+      "categoryname": "dummys",
+      "description": "dummys"
+    },
+    {
+      "id": "b2ae2320-1c38-ece4-ec0e-a230230f7973",
+      "categoryname": "dummys",
+      "description": "dummys"
+    },
+    {
+      "id": "e4afa129-101b-ecad-e8d0-d2414ec51d06",
+      "categoryname": "dummys",
+      "description": "dummys"
+    },
+    {
+      "id": "ebc861f0-29fe-908b-1e52-0cf7b755f2a6",
+      "categoryname": "rererererererer",
+      "description": "ererererererere"
+    }
+  ],
+  "Cars": [
+    {
+      "category": "b782d09d-e3df-a2b9-1671-a90e173ed519",
+      "color": "gray",
+      "model": "2020",
+      "makeby": "honda",
+      "registrationno": "12345678",
+      "carId": "d3c3f574-b595-c293-7152-776e8d529df8",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "carId": "0d0803c8-d355-cc81-7ec8-491a7147909e",
+      "category": "5efa2ba2-487e-5228-4841-f36707702fd9",
+      "color": "red",
+      "model": "2018",
+      "makeby": "yamaha",
+      "registrationno": "123456789"
+    },
+    {
+      "category": "b782d09d-e3df-a2b9-1671-a90e173ed519",
+      "color": "black",
+      "model": "2018",
+      "makeby": "yamaha",
+      "registrationno": "123456789",
+      "carId": "7b580040-dbe3-5397-edd8-aaa61a4a0d9b",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "carId": "f7d08c6a-f7e1-e205-d922-2162dbfc50e9",
+      "category": "eae2dbcb-8ec9-23e2-543c-dd48999d40da",
+      "color": "grey",
+      "model": "2021",
+      "makeby": "suzukiw",
+      "registrationno": "12345679"
+    },
+    {
+      "id": 5,
+      "carId": "c928e660-c901-feec-520f-40227700036e",
+      "category": "5efa2ba2-487e-5228-4841-f36707702fd9",
+      "color": "browns",
+      "model": "2022",
+      "makeby": "yamahas",
+      "registrationno": "12345678"
+    },
+    {
+      "category": "b2ae2320-1c38-ece4-ec0e-a230230f7973",
+      "color": "green",
+      "model": "2020",
+      "makeby": "yamaha",
+      "registrationno": "123456789",
+      "carId": "4a4c5270-0f37-90fd-e310-39d7b8429f04",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "carId": "190f4db8-d672-8719-39b9-e353396db5c0",
+      "category": "b782d09d-e3df-a2b9-1671-a90e173ed519",
+      "color": "erererererererre",
+      "model": "errerereererer",
+      "makeby": "rerrer",
+      "registrationno": "erererr"
+    },
+    {
+      "id": 8,
+      "carId": "a1d414d0-64c9-ce3b-02a4-2ae4f0c18368",
+      "category": "5efa2ba2-487e-5228-4841-f36707702fd9",
+      "color": "wewewewwewe",
+      "model": "wewewewewe",
+      "makeby": "ewewewewew",
+      "registrationno": "wewewewewewe"
+    }
+  ]
+}
